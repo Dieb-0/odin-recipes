@@ -1,1 +1,1 @@
-This is my first project on The odin project
+This is the first project that i've done for The Odin Project foundations course. I've thoroughly enjoyed making the project and adding the humor. I managed to practice all the components of the course while making the project and found some tags like "center" along the way which makes the project look decent. I have gained practical experience of interacting with git, and making functional html pages. 
